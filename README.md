@@ -1,0 +1,2 @@
+# CATSettingManager
+CATIA V5がサーバーからCATSettingsを取得する仕様の場合に、ショートカットなどの個人設定をバックアップ/復元するためのツール
